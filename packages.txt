@@ -19,3 +19,5 @@ libgl1-mesa-glx
 libsm6
 libxrender1
 libxext6
+libgstreamer1.0-dev
+libgstreamer-plugins-base1.0-dev
